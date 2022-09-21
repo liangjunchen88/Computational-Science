@@ -1,2 +1,2 @@
 # Computational-Science
-Including Numerical Analysis, Computational Science Practice, Numerical solutions of partial differential equations, Optimization , etc.
+Including Numerical Analysis, Computational Science Practice, Numerical Solutions of Partial Differential Equations, Optimization , etc.
